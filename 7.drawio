@@ -1,0 +1,64 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.4">
+  <diagram name="Trang-1" id="fnY55MdMW40aTpB2ZZW-">
+    <mxGraphModel dx="1042" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2qSVa0o2I6uKfE99-fjs-1" value="INTERNET" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="168" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2qSVa0o2I6uKfE99-fjs-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2qSVa0o2I6uKfE99-fjs-4" target="2qSVa0o2I6uKfE99-fjs-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2qSVa0o2I6uKfE99-fjs-4" value="" style="image;html=1;image=img/lib/clip_art/networking/Router_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="362.5" y="280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2qSVa0o2I6uKfE99-fjs-5" value="" style="fillColorStyles=neutralFill;neutralFill=#9DA6A8;shape=mxgraph.networks2.icon;aspect=fixed;fillColor=#EDEDED;strokeColor=#000000;gradientColor=#5B6163;network2IconShadow=1;network2bgFillColor=none;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;network2Icon=mxgraph.networks2.modem;network2IconYOffset=0.0131;network2IconW=1;network2IconH=0.2938;" vertex="1" parent="1">
+          <mxGeometry x="362.5" y="240" width="75" height="22.04" as="geometry" />
+        </mxCell>
+        <mxCell id="2qSVa0o2I6uKfE99-fjs-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2qSVa0o2I6uKfE99-fjs-6" target="2qSVa0o2I6uKfE99-fjs-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2qSVa0o2I6uKfE99-fjs-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2qSVa0o2I6uKfE99-fjs-6" target="2qSVa0o2I6uKfE99-fjs-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2qSVa0o2I6uKfE99-fjs-6" value="" style="image;html=1;image=img/lib/clip_art/networking/Switch_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="362.5" y="400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2qSVa0o2I6uKfE99-fjs-8" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_Wireless.svg;" vertex="1" parent="1">
+          <mxGeometry x="120" y="560" width="63" height="64.2" as="geometry" />
+        </mxCell>
+        <mxCell id="2qSVa0o2I6uKfE99-fjs-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://icons.diagrams.net/icon-cache1/Computer_Hardware_Glyphs_vol_1-2893/printer__print__outline__printsetting__papper__photocopy__machine-1335.svg" vertex="1" parent="1">
+          <mxGeometry x="270" y="560" width="57.1" height="57.1" as="geometry" />
+        </mxCell>
+        <mxCell id="2qSVa0o2I6uKfE99-fjs-11" value="Modem" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="238" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2qSVa0o2I6uKfE99-fjs-12" value="router" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="455" y="318" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2qSVa0o2I6uKfE99-fjs-13" value="switch" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2qSVa0o2I6uKfE99-fjs-17" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1" source="2qSVa0o2I6uKfE99-fjs-5" target="2qSVa0o2I6uKfE99-fjs-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="400" as="sourcePoint" />
+            <mxPoint x="440" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2qSVa0o2I6uKfE99-fjs-18" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.5" y="304.04" as="sourcePoint" />
+            <mxPoint x="399.5" y="262.04" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="399.5" y="294.04" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2qSVa0o2I6uKfE99-fjs-20" value="&lt;div&gt;&lt;b&gt;Kết nối mạng LAN có dây (Ethernet)&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Thiết bị cần thiết:&lt;/div&gt;&lt;div&gt;-Máy tính: Mỗi máy tính cần có card mạng Ethernet (NIC).&lt;/div&gt;&lt;div&gt;-Cáp Ethernet: Loại cáp chuyên dụng (RJ45) để kết nối các thiết bị.&lt;/div&gt;&lt;div&gt;-Switch hoặc Router: Thiết bị trung tâm giúp kết nối nhiều máy tính và thiết bị với nhau.&lt;/div&gt;&lt;div&gt;Các bước kết nối:&lt;/div&gt;&lt;div&gt;-Cắm một đầu cáp Ethernet vào cổng LAN trên máy tính.&lt;/div&gt;&lt;div&gt;-Cắm đầu còn lại của cáp Ethernet vào một cổng trên Switch hoặc Router.&lt;/div&gt;&lt;div&gt;-Lặp lại bước này cho tất cả các máy tính khác cần kết nối.&lt;/div&gt;&lt;div&gt;Kiểm tra đèn tín hiệu trên Switch/Router và máy tính để xác nhận kết nối thành công.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="40" y="670" width="600" height="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
